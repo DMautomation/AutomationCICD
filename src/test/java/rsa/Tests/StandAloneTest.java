@@ -21,7 +21,8 @@ import org.testng.Assert;
 public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
-		
+		//new comments are added
+
 		String productName = "ZARA COAT 3";
 		
 		//System.setProperty("webdriver.chrome.driver","H:\\browser-drivers\\chromedriver.exe");
